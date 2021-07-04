@@ -69,3 +69,11 @@ for(contador=0; contador <=5; contador++){
 console.log(data)
 console.log(data.getMinutes())
 console.log(data.getFullYear())*/
+
+//FUNÇÕES
+
+function some(n1, n2) {
+    return n1 + n2
+}
+
+alert(soma(2,4))
